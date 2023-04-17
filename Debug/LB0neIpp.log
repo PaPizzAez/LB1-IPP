@@ -1,0 +1,9 @@
+﻿  Source.cpp
+D:\Desk\XDLB1_IPP\LB0neIpp\Source.cpp(82,8): warning C4101: id: неиспользованная локальная переменная
+D:\Desk\XDLB1_IPP\LB0neIpp\Source.cpp(202,11): warning C4101: KernelTime: неиспользованная локальная переменная
+D:\Desk\XDLB1_IPP\LB0neIpp\Source.cpp(203,11): warning C4101: UserTime: неиспользованная локальная переменная
+D:\Desk\XDLB1_IPP\LB0neIpp\Source.cpp(204,15): warning C4101: lpSystemTime: неиспользованная локальная переменная
+D:\Desk\XDLB1_IPP\LB0neIpp\Source.cpp(201,11): warning C4101: ExitTime: неиспользованная локальная переменная
+D:\Desk\XDLB1_IPP\LB0neIpp\Source.cpp(199,7): warning C4101: rect: неиспользованная локальная переменная
+D:\Desk\XDLB1_IPP\LB0neIpp\Source.cpp(200,11): warning C4101: CreationTime: неиспользованная локальная переменная
+  LB0neIpp.vcxproj -> D:\Desk\XDLB1_IPP\LB0neIpp\Debug\LB0neIpp.exe
